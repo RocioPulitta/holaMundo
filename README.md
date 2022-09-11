@@ -1,2 +1,5 @@
 # holaMundo
-clase 3 metodologia de la investigacion
+
+mi Primer Repositorio
+
+I love :coffee:, :icecream:, :pizza:
